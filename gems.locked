@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bundle (0.0.1)
+      bundler
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundle
+
+BUNDLED WITH
+   2.1.4
